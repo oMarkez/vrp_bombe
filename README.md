@@ -10,7 +10,7 @@ vrp_bombe - oMarkez#6666
 4. Hvis du ikke har InteractSound, kan du tage den herfra, smide i resources og starte den i server.cfg
 
 # Video
-https://streamable.com/em6c7
+https://streamable.com/em6c7 credits til Coffee#0191 for videoen
 
 # Discord: 
 https://discord.gg/PyHMHW2
