@@ -9,5 +9,8 @@ vrp_bombe - oMarkez#6666
 3. Hvis du allerede har InteractSound, så læg "bombsoudn.ogg" ind i InteractSound\client\html\sounds og tilføj den i __resource.lua
 4. Hvis du ikke har InteractSound, kan du tage den herfra, smide i resources og starte den i server.cfg
 
+#Video
+https://streamable.com/em6c7
+
 # Discord: 
 https://discord.gg/PyHMHW2
